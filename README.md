@@ -1,2 +1,2 @@
-some demos for learing javascript design pattern
+some demos for learning about javascript design pattern
 
